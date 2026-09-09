@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I’m currently learning and exploring Github and this is my personal space to break and fix things...
 <!--
 **Divyasri0419/Divyasri0419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
